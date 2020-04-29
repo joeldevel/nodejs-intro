@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-intro",
+  "version": "1.0.0",
+  "description": "Node form traversy media",
+  "main": "app.js",
+  "scripts": {
+    "start": "node index",
+    "dev" : "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeldevel/nodejs-intro.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joeldevel/nodejs-intro/issues"
+  },
+  "homepage": "https://github.com/joeldevel/nodejs-intro#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}

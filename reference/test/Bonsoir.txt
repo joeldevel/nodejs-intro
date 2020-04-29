@@ -1,0 +1,2 @@
+Bonjour from node
+Some new text
